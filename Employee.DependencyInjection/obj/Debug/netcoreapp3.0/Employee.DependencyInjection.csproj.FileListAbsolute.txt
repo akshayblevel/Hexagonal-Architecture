@@ -1,0 +1,13 @@
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.DependencyInjection\bin\Debug\netcoreapp3.0\Employee.DependencyInjection.deps.json
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.DependencyInjection\bin\Debug\netcoreapp3.0\Employee.DependencyInjection.dll
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.DependencyInjection\bin\Debug\netcoreapp3.0\Employee.DependencyInjection.pdb
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.DependencyInjection\bin\Debug\netcoreapp3.0\Employee.Application.dll
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.DependencyInjection\bin\Debug\netcoreapp3.0\Employee.Domain.dll
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.DependencyInjection\bin\Debug\netcoreapp3.0\Employee.Application.pdb
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.DependencyInjection\bin\Debug\netcoreapp3.0\Employee.Domain.pdb
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.DependencyInjection\obj\Debug\netcoreapp3.0\Employee.DependencyInjection.csprojAssemblyReference.cache
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.DependencyInjection\obj\Debug\netcoreapp3.0\Employee.DependencyInjection.AssemblyInfoInputs.cache
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.DependencyInjection\obj\Debug\netcoreapp3.0\Employee.DependencyInjection.AssemblyInfo.cs
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.DependencyInjection\obj\Debug\netcoreapp3.0\Employee.DependencyInjection.csproj.CopyComplete
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.DependencyInjection\obj\Debug\netcoreapp3.0\Employee.DependencyInjection.dll
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.DependencyInjection\obj\Debug\netcoreapp3.0\Employee.DependencyInjection.pdb

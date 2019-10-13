@@ -1,0 +1,15 @@
+D:\Akki\POC\WishlistMicroservice\Wishlist.Domain\bin\Debug\netcoreapp3.0\Wishlist.Domain.deps.json
+D:\Akki\POC\WishlistMicroservice\Wishlist.Domain\bin\Debug\netcoreapp3.0\Wishlist.Domain.dll
+D:\Akki\POC\WishlistMicroservice\Wishlist.Domain\bin\Debug\netcoreapp3.0\Wishlist.Domain.pdb
+D:\Akki\POC\WishlistMicroservice\Wishlist.Domain\obj\Debug\netcoreapp3.0\Wishlist.Domain.AssemblyInfoInputs.cache
+D:\Akki\POC\WishlistMicroservice\Wishlist.Domain\obj\Debug\netcoreapp3.0\Wishlist.Domain.AssemblyInfo.cs
+D:\Akki\POC\WishlistMicroservice\Wishlist.Domain\obj\Debug\netcoreapp3.0\Wishlist.Domain.dll
+D:\Akki\POC\WishlistMicroservice\Wishlist.Domain\obj\Debug\netcoreapp3.0\Wishlist.Domain.pdb
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Domain\bin\Debug\netcoreapp3.0\Wishlist.Domain.deps.json
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Domain\bin\Debug\netcoreapp3.0\Wishlist.Domain.dll
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Domain\bin\Debug\netcoreapp3.0\Wishlist.Domain.pdb
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Domain\obj\Debug\netcoreapp3.0\Wishlist.Domain.csprojAssemblyReference.cache
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Domain\obj\Debug\netcoreapp3.0\Wishlist.Domain.AssemblyInfoInputs.cache
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Domain\obj\Debug\netcoreapp3.0\Wishlist.Domain.AssemblyInfo.cs
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Domain\obj\Debug\netcoreapp3.0\Wishlist.Domain.dll
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Domain\obj\Debug\netcoreapp3.0\Wishlist.Domain.pdb

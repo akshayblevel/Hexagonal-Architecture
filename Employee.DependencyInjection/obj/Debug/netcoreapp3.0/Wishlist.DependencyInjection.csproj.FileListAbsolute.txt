@@ -1,0 +1,13 @@
+D:\Akki\POC\WishlistMicroservice\Wishlist.DependencyInjection\bin\Debug\netcoreapp3.0\Wishlist.DependencyInjection.deps.json
+D:\Akki\POC\WishlistMicroservice\Wishlist.DependencyInjection\bin\Debug\netcoreapp3.0\Wishlist.DependencyInjection.dll
+D:\Akki\POC\WishlistMicroservice\Wishlist.DependencyInjection\bin\Debug\netcoreapp3.0\Wishlist.Application.dll
+D:\Akki\POC\WishlistMicroservice\Wishlist.DependencyInjection\bin\Debug\netcoreapp3.0\Wishlist.Domain.dll
+D:\Akki\POC\WishlistMicroservice\Wishlist.DependencyInjection\bin\Debug\netcoreapp3.0\Wishlist.Application.pdb
+D:\Akki\POC\WishlistMicroservice\Wishlist.DependencyInjection\bin\Debug\netcoreapp3.0\Wishlist.Domain.pdb
+D:\Akki\POC\WishlistMicroservice\Wishlist.DependencyInjection\obj\Debug\netcoreapp3.0\Wishlist.DependencyInjection.csprojAssemblyReference.cache
+D:\Akki\POC\WishlistMicroservice\Wishlist.DependencyInjection\obj\Debug\netcoreapp3.0\Wishlist.DependencyInjection.AssemblyInfoInputs.cache
+D:\Akki\POC\WishlistMicroservice\Wishlist.DependencyInjection\obj\Debug\netcoreapp3.0\Wishlist.DependencyInjection.AssemblyInfo.cs
+D:\Akki\POC\WishlistMicroservice\Wishlist.DependencyInjection\obj\Debug\netcoreapp3.0\Wishlist.DependencyInjection.csproj.CopyComplete
+D:\Akki\POC\WishlistMicroservice\Wishlist.DependencyInjection\bin\Debug\netcoreapp3.0\Wishlist.DependencyInjection.pdb
+D:\Akki\POC\WishlistMicroservice\Wishlist.DependencyInjection\obj\Debug\netcoreapp3.0\Wishlist.DependencyInjection.dll
+D:\Akki\POC\WishlistMicroservice\Wishlist.DependencyInjection\obj\Debug\netcoreapp3.0\Wishlist.DependencyInjection.pdb

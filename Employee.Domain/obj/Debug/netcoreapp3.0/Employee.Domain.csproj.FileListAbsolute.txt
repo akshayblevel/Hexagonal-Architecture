@@ -1,0 +1,7 @@
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Domain\bin\Debug\netcoreapp3.0\Employee.Domain.deps.json
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Domain\bin\Debug\netcoreapp3.0\Employee.Domain.dll
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Domain\bin\Debug\netcoreapp3.0\Employee.Domain.pdb
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Domain\obj\Debug\netcoreapp3.0\Employee.Domain.AssemblyInfoInputs.cache
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Domain\obj\Debug\netcoreapp3.0\Employee.Domain.AssemblyInfo.cs
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Domain\obj\Debug\netcoreapp3.0\Employee.Domain.dll
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Domain\obj\Debug\netcoreapp3.0\Employee.Domain.pdb

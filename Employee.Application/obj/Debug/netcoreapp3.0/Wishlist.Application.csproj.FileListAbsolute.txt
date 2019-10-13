@@ -1,0 +1,11 @@
+D:\Akki\POC\WishlistMicroservice\Wishlist.Application\bin\Debug\netcoreapp3.0\Wishlist.Application.deps.json
+D:\Akki\POC\WishlistMicroservice\Wishlist.Application\bin\Debug\netcoreapp3.0\Wishlist.Application.dll
+D:\Akki\POC\WishlistMicroservice\Wishlist.Application\bin\Debug\netcoreapp3.0\Wishlist.Application.pdb
+D:\Akki\POC\WishlistMicroservice\Wishlist.Application\bin\Debug\netcoreapp3.0\Wishlist.Domain.dll
+D:\Akki\POC\WishlistMicroservice\Wishlist.Application\bin\Debug\netcoreapp3.0\Wishlist.Domain.pdb
+D:\Akki\POC\WishlistMicroservice\Wishlist.Application\obj\Debug\netcoreapp3.0\Wishlist.Application.csprojAssemblyReference.cache
+D:\Akki\POC\WishlistMicroservice\Wishlist.Application\obj\Debug\netcoreapp3.0\Wishlist.Application.AssemblyInfoInputs.cache
+D:\Akki\POC\WishlistMicroservice\Wishlist.Application\obj\Debug\netcoreapp3.0\Wishlist.Application.AssemblyInfo.cs
+D:\Akki\POC\WishlistMicroservice\Wishlist.Application\obj\Debug\netcoreapp3.0\Wishlist.Application.csproj.CopyComplete
+D:\Akki\POC\WishlistMicroservice\Wishlist.Application\obj\Debug\netcoreapp3.0\Wishlist.Application.dll
+D:\Akki\POC\WishlistMicroservice\Wishlist.Application\obj\Debug\netcoreapp3.0\Wishlist.Application.pdb

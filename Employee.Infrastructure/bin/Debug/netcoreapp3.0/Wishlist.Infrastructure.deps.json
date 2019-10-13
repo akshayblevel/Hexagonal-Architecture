@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Wishlist.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Wishlist.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Wishlist.Infrastructure.dll": {}
+        }
+      },
+      "Wishlist.Domain/1.0.0": {
+        "runtime": {
+          "Wishlist.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wishlist.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Wishlist.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

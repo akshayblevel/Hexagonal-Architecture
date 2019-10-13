@@ -1,0 +1,11 @@
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Infrastructure\bin\Debug\netcoreapp3.0\Employee.Infrastructure.deps.json
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Infrastructure\bin\Debug\netcoreapp3.0\Employee.Infrastructure.dll
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Infrastructure\bin\Debug\netcoreapp3.0\Employee.Infrastructure.pdb
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Infrastructure\bin\Debug\netcoreapp3.0\Employee.Domain.dll
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Infrastructure\bin\Debug\netcoreapp3.0\Employee.Domain.pdb
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Infrastructure\obj\Debug\netcoreapp3.0\Employee.Infrastructure.csprojAssemblyReference.cache
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Infrastructure\obj\Debug\netcoreapp3.0\Employee.Infrastructure.AssemblyInfoInputs.cache
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Infrastructure\obj\Debug\netcoreapp3.0\Employee.Infrastructure.AssemblyInfo.cs
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Infrastructure\obj\Debug\netcoreapp3.0\Employee.Infrastructure.csproj.CopyComplete
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Infrastructure\obj\Debug\netcoreapp3.0\Employee.Infrastructure.dll
+D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Infrastructure\obj\Debug\netcoreapp3.0\Employee.Infrastructure.pdb

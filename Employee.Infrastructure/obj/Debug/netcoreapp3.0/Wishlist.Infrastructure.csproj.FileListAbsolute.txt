@@ -1,0 +1,11 @@
+D:\Akki\POC\WishlistMicroservice\Wishlist.Infrastructure\bin\Debug\netcoreapp3.0\Wishlist.Infrastructure.deps.json
+D:\Akki\POC\WishlistMicroservice\Wishlist.Infrastructure\bin\Debug\netcoreapp3.0\Wishlist.Infrastructure.dll
+D:\Akki\POC\WishlistMicroservice\Wishlist.Infrastructure\bin\Debug\netcoreapp3.0\Wishlist.Infrastructure.pdb
+D:\Akki\POC\WishlistMicroservice\Wishlist.Infrastructure\bin\Debug\netcoreapp3.0\Wishlist.Domain.dll
+D:\Akki\POC\WishlistMicroservice\Wishlist.Infrastructure\bin\Debug\netcoreapp3.0\Wishlist.Domain.pdb
+D:\Akki\POC\WishlistMicroservice\Wishlist.Infrastructure\obj\Debug\netcoreapp3.0\Wishlist.Infrastructure.csprojAssemblyReference.cache
+D:\Akki\POC\WishlistMicroservice\Wishlist.Infrastructure\obj\Debug\netcoreapp3.0\Wishlist.Infrastructure.AssemblyInfoInputs.cache
+D:\Akki\POC\WishlistMicroservice\Wishlist.Infrastructure\obj\Debug\netcoreapp3.0\Wishlist.Infrastructure.AssemblyInfo.cs
+D:\Akki\POC\WishlistMicroservice\Wishlist.Infrastructure\obj\Debug\netcoreapp3.0\Wishlist.Infrastructure.csproj.CopyComplete
+D:\Akki\POC\WishlistMicroservice\Wishlist.Infrastructure\obj\Debug\netcoreapp3.0\Wishlist.Infrastructure.dll
+D:\Akki\POC\WishlistMicroservice\Wishlist.Infrastructure\obj\Debug\netcoreapp3.0\Wishlist.Infrastructure.pdb
