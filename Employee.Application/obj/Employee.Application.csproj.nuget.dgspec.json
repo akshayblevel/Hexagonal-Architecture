@@ -1,38 +1,38 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Akki\\POC\\Final\\HexagonalArchitecture\\Wishlist.Application\\Employee.Application.csproj": {}
+    "D:\\AKKI_DEV\\RND\\DP\\HexagonalArchitecture\\Employee.Application\\Employee.Application.csproj": {}
   },
   "projects": {
-    "D:\\Akki\\POC\\Final\\HexagonalArchitecture\\Wishlist.Application\\Employee.Application.csproj": {
+    "D:\\AKKI_DEV\\RND\\DP\\HexagonalArchitecture\\Employee.Application\\Employee.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Akki\\POC\\Final\\HexagonalArchitecture\\Wishlist.Application\\Employee.Application.csproj",
+        "projectUniqueName": "D:\\AKKI_DEV\\RND\\DP\\HexagonalArchitecture\\Employee.Application\\Employee.Application.csproj",
         "projectName": "Employee.Application",
-        "projectPath": "D:\\Akki\\POC\\Final\\HexagonalArchitecture\\Wishlist.Application\\Employee.Application.csproj",
-        "packagesPath": "C:\\Users\\akshayp\\.nuget\\packages\\",
-        "outputPath": "D:\\Akki\\POC\\Final\\HexagonalArchitecture\\Wishlist.Application\\obj\\",
+        "projectPath": "D:\\AKKI_DEV\\RND\\DP\\HexagonalArchitecture\\Employee.Application\\Employee.Application.csproj",
+        "packagesPath": "C:\\Users\\Akshay\\.nuget\\packages\\",
+        "outputPath": "D:\\AKKI_DEV\\RND\\DP\\HexagonalArchitecture\\Employee.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\akshayp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Akshay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\AKKI_DEV\\RND\\NugetPackageReference\\Container": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "D:\\Akki\\POC\\Final\\HexagonalArchitecture\\Wishlist.Domain\\Employee.Domain.csproj": {
-                "projectPath": "D:\\Akki\\POC\\Final\\HexagonalArchitecture\\Wishlist.Domain\\Employee.Domain.csproj"
+              "D:\\AKKI_DEV\\RND\\DP\\HexagonalArchitecture\\Employee.Domain\\Employee.Domain.csproj": {
+                "projectPath": "D:\\AKKI_DEV\\RND\\DP\\HexagonalArchitecture\\Employee.Domain\\Employee.Domain.csproj"
               }
             }
           }
@@ -55,37 +55,51 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Akki\\POC\\Final\\HexagonalArchitecture\\Wishlist.Domain\\Employee.Domain.csproj": {
+    "D:\\AKKI_DEV\\RND\\DP\\HexagonalArchitecture\\Employee.Domain\\Employee.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Akki\\POC\\Final\\HexagonalArchitecture\\Wishlist.Domain\\Employee.Domain.csproj",
+        "projectUniqueName": "D:\\AKKI_DEV\\RND\\DP\\HexagonalArchitecture\\Employee.Domain\\Employee.Domain.csproj",
         "projectName": "Employee.Domain",
-        "projectPath": "D:\\Akki\\POC\\Final\\HexagonalArchitecture\\Wishlist.Domain\\Employee.Domain.csproj",
-        "packagesPath": "C:\\Users\\akshayp\\.nuget\\packages\\",
-        "outputPath": "D:\\Akki\\POC\\Final\\HexagonalArchitecture\\Wishlist.Domain\\obj\\",
+        "projectPath": "D:\\AKKI_DEV\\RND\\DP\\HexagonalArchitecture\\Employee.Domain\\Employee.Domain.csproj",
+        "packagesPath": "C:\\Users\\Akshay\\.nuget\\packages\\",
+        "outputPath": "D:\\AKKI_DEV\\RND\\DP\\HexagonalArchitecture\\Employee.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\akshayp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Akshay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\AKKI_DEV\\RND\\NugetPackageReference\\Container": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -111,12 +125,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

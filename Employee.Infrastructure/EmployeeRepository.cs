@@ -6,7 +6,7 @@ using Employee.Domain;
 
 namespace Employee.Infrastructure
 {
-    class EmployeeRepository : IEmployeeRepository
+    public class EmployeeRepository : IEmployeeRepository
     {
         public async Task Add(EmployeeDTO Employee)
         {

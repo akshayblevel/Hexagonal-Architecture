@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uA65TlKM2jfMGOL6l+9VZ1o19oZFVGOmpvfJnpW8qUt41DotHc+TzwoQLA7xhc+aFlBWezwlbHgrL+jA8tMAdQ==",
+  "success": true,
+  "projectFilePath": "D:\\AKKI_DEV\\RND\\DP\\HexagonalArchitecture\\Employee.Application\\Employee.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Akshay\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Akshay\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Akshay\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

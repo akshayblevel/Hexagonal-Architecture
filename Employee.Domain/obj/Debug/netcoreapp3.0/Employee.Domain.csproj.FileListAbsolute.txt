@@ -5,3 +5,11 @@ D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Domain\obj\Debug\netcoreapp3.0\
 D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Domain\obj\Debug\netcoreapp3.0\Employee.Domain.AssemblyInfo.cs
 D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Domain\obj\Debug\netcoreapp3.0\Employee.Domain.dll
 D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Domain\obj\Debug\netcoreapp3.0\Employee.Domain.pdb
+D:\AKKI_DEV\RND\DP\HexagonalArchitecture\Employee.Domain\bin\Debug\netcoreapp3.0\Employee.Domain.deps.json
+D:\AKKI_DEV\RND\DP\HexagonalArchitecture\Employee.Domain\bin\Debug\netcoreapp3.0\Employee.Domain.dll
+D:\AKKI_DEV\RND\DP\HexagonalArchitecture\Employee.Domain\bin\Debug\netcoreapp3.0\Employee.Domain.pdb
+D:\AKKI_DEV\RND\DP\HexagonalArchitecture\Employee.Domain\obj\Debug\netcoreapp3.0\Employee.Domain.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\DP\HexagonalArchitecture\Employee.Domain\obj\Debug\netcoreapp3.0\Employee.Domain.AssemblyInfoInputs.cache
+D:\AKKI_DEV\RND\DP\HexagonalArchitecture\Employee.Domain\obj\Debug\netcoreapp3.0\Employee.Domain.AssemblyInfo.cs
+D:\AKKI_DEV\RND\DP\HexagonalArchitecture\Employee.Domain\obj\Debug\netcoreapp3.0\Employee.Domain.dll
+D:\AKKI_DEV\RND\DP\HexagonalArchitecture\Employee.Domain\obj\Debug\netcoreapp3.0\Employee.Domain.pdb

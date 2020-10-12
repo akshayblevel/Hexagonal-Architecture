@@ -9,6 +9,8 @@
       "Employee.DependencyInjection/1.0.0": {
         "dependencies": {
           "Employee.Application": "1.0.0",
+          "Employee.Domain": "1.0.0",
+          "Employee.Infrastructure": "1.0.0",
           "Microsoft.Extensions.DependencyInjection": "3.0.0"
         },
         "runtime": {
@@ -46,6 +48,14 @@
         "runtime": {
           "Employee.Domain.dll": {}
         }
+      },
+      "Employee.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Employee.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Employee.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -75,6 +85,11 @@
       "sha512": ""
     },
     "Employee.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Employee.Infrastructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

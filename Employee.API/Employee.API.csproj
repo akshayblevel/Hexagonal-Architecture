@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Wishlist.DependencyInjection\Employee.DependencyInjection.csproj" />
+    <ProjectReference Include="..\Employee.DependencyInjection\Employee.DependencyInjection.csproj" />
   </ItemGroup>
 
 </Project>

@@ -9,3 +9,15 @@ D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Application\obj\Debug\netcoreap
 D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Application\obj\Debug\netcoreapp3.0\Employee.Application.csproj.CopyComplete
 D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Application\obj\Debug\netcoreapp3.0\Employee.Application.dll
 D:\Akki\POC\Final\HexagonalArchitecture\Wishlist.Application\obj\Debug\netcoreapp3.0\Employee.Application.pdb
+D:\AKKI_DEV\RND\DP\HexagonalArchitecture\Employee.Application\bin\Debug\netcoreapp3.0\Employee.Application.deps.json
+D:\AKKI_DEV\RND\DP\HexagonalArchitecture\Employee.Application\bin\Debug\netcoreapp3.0\Employee.Application.dll
+D:\AKKI_DEV\RND\DP\HexagonalArchitecture\Employee.Application\bin\Debug\netcoreapp3.0\Employee.Application.pdb
+D:\AKKI_DEV\RND\DP\HexagonalArchitecture\Employee.Application\bin\Debug\netcoreapp3.0\Employee.Domain.dll
+D:\AKKI_DEV\RND\DP\HexagonalArchitecture\Employee.Application\bin\Debug\netcoreapp3.0\Employee.Domain.pdb
+D:\AKKI_DEV\RND\DP\HexagonalArchitecture\Employee.Application\obj\Debug\netcoreapp3.0\Employee.Application.csprojAssemblyReference.cache
+D:\AKKI_DEV\RND\DP\HexagonalArchitecture\Employee.Application\obj\Debug\netcoreapp3.0\Employee.Application.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\DP\HexagonalArchitecture\Employee.Application\obj\Debug\netcoreapp3.0\Employee.Application.AssemblyInfoInputs.cache
+D:\AKKI_DEV\RND\DP\HexagonalArchitecture\Employee.Application\obj\Debug\netcoreapp3.0\Employee.Application.AssemblyInfo.cs
+D:\AKKI_DEV\RND\DP\HexagonalArchitecture\Employee.Application\obj\Debug\netcoreapp3.0\Employee.Application.csproj.CopyComplete
+D:\AKKI_DEV\RND\DP\HexagonalArchitecture\Employee.Application\obj\Debug\netcoreapp3.0\Employee.Application.dll
+D:\AKKI_DEV\RND\DP\HexagonalArchitecture\Employee.Application\obj\Debug\netcoreapp3.0\Employee.Application.pdb

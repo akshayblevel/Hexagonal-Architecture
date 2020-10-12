@@ -9,7 +9,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Wishlist.Application\Employee.Application.csproj" />
+    <ProjectReference Include="..\Employee.Application\Employee.Application.csproj" />
+    <ProjectReference Include="..\Employee.Domain\Employee.Domain.csproj" />
+    <ProjectReference Include="..\Employee.Infrastructure\Employee.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
